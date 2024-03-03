@@ -1,4 +1,5 @@
-# PocketPad ![no_img](img.jpg){:width:50%;height:50%}
+# PocketPad ![no_img](img.jpg){:width="100" height="100"}
+
 
 
 A minimalistic NotePad inspired text editor made using Tkinter & Python.
