@@ -1,4 +1,5 @@
-# PocketPad
+# PocketPad ![no_img](img.jpg)
+
 
 A minimalistic NotePad inspired text editor made using Tkinter & Python.
 Packaged using Pyinstaller.
