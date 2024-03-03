@@ -2,9 +2,10 @@ import tkinter as tk
 from tkinter.filedialog import askopenfilename, asksaveasfilename
 
 window = tk.Tk()
-window.title("NotePad")
+window.title("PocketPad")
 window.rowconfigure(0, minsize=800, weight=1)
 window.columnconfigure(1, minsize=800, weight=1)
+window.iconbitmap("favicon.ico")
 
 def open_file():
     filepath = askopenfilename(
