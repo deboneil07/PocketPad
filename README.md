@@ -1,22 +1,25 @@
 # PocketPad
 
-A minimalistic NotePad inspired text editor.
+A minimalistic NotePad inspired text editor made using Tkinter & Python.
+Packaged using Pyinstaller.
 
 ## Version
 
-v1.0.0
+v1.0.1
 
 ## Installation
 
-Instructions for installing and getting started with your project.
+Simply Download the latest version of PocketPad from the link below.
+Alternatively, you can also go into Completed Build/dist/ and seperately download the latest version of PocketPad (PocketPad.exe).
+[Download PocketPad](Completed Build/dist/PocketPad.exe)
 
 ## Usage
 
-Instructions for using your project or examples of usage.
+It is a very simple and minimalistic NotePad inspired Text Editor, and can be used for various cases, such as writing, editing files, etc.
 
 ## Contributing
 
-Guidelines for contributing to your project.
+Anyone can contribute to this project who has beginner level of skills in Python and Tkinter.
 
 ## License
 
