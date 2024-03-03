@@ -12,7 +12,7 @@ v1.0.1
 Simply Download the latest version of PocketPad from the link below.
 Alternatively, you can also go into Completed Build/dist/ and seperately download the latest version of PocketPad (PocketPad.exe).
 
-<a href="Package/Completed Build/dist/PocketPad.exe">Download MyExecutable.exe</a>
+[Download](PocketPad.exe) 
 
 
 
