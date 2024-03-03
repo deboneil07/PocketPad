@@ -21,11 +21,15 @@ It is a very simple and minimalistic NotePad inspired Text Editor, and can be us
 
 ## Roadmap
 
-[for v1.3.0]
+[for v2.0.0]
+
+1. Setting up and hosting a website for PocketPad.
+
+[for v2.1.0]
 
 1. Changing font colors.
 
-[for v2.0.0]
+[for v2.2.0]
 
 1. Setting Themes.
 
