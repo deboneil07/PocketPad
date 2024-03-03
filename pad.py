@@ -1,11 +1,18 @@
 import tkinter as tk
+import os, sys
 from tkinter.filedialog import askopenfilename, asksaveasfilename
 
 window = tk.Tk()
 window.title("PocketPad")
 window.rowconfigure(0, minsize=800, weight=1)
 window.columnconfigure(1, minsize=800, weight=1)
-window.iconbitmap("favicon.ico")
+
+icon_path = os.path.join(getattr(sys, '_MEIPASS', os.path.abspath(".")), "favicon.ico")
+try:
+    window.iconbitmap(icon_path)
+except tk.TclError:
+    print("Warning: Icon file 'favicon.ico' not found or could not be loaded.")
+
 
 def open_file():
     filepath = askopenfilename(
