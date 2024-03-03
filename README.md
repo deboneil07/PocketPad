@@ -5,7 +5,7 @@ Packaged using Pyinstaller.
 
 ## Version
 
-v1.2.0
+v1.2.2
 
 ## Installation
 
