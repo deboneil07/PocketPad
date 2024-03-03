@@ -5,14 +5,15 @@ Packaged using Pyinstaller.
 
 ## Version
 
-v1.0.1
+v1.2.0
 
 ## Installation
 
 Simply Download the latest version of PocketPad from the link below.
-Alternatively, you can also go into Completed Build/dist/ and seperately download the latest version of PocketPad (PocketPad.exe).
+Alternatively, you can also seperately download the latest version from the file source manually. (for ref: PocketPad.exe)
 
-<a href="PocketPad.exe" download>Download PocketPad</a>
+[Download PocketPad](https://raw.githubusercontent.com/deboneil07/PocketPad/main/PocketPad.exe)
+
 
 
 
