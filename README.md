@@ -5,7 +5,13 @@ Packaged using Pyinstaller.
 
 ## Version
 
-v1.2.2
+v1.2.3
+
+## <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F17%2FWarning.svg%2F2219px-Warning.svg.png&tbnid=NGrIUeL6NaoqaM&vet=12ahUKEwjslJOtgNqEAxXDcPUHHRnUAzkQMygAegQIARBy..i&imgrefurl=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AWarning.svg&docid=w-MXtzEdBPLguM&w=2219&h=2048&q=warning&ved=2ahUKEwjslJOtgNqEAxXDcPUHHRnUAzkQMygAegQIARBy" alt = "Warning" width="50" height="50"> Disclaimer
+
+1. This application is not yet supported for Android and iOS devices.
+2. Upon downloading PocketPad, the Windows Defender might not recognise this as a legit file, so make sure to click on "Read More" and then select "Allow" to run this application.
+3. For any other queries please make sure to [Mail](mailto:bhattacharjeedeboneil@gmail.com) to this address.
 
 ## Installation
 
@@ -13,7 +19,6 @@ Simply Download the latest version of PocketPad from the link below.
 Alternatively, you can also seperately download the latest version from the file source manually. (for ref: PocketPad.exe)
 
 [Download PocketPad](https://raw.githubusercontent.com/deboneil07/PocketPad/main/PocketPad.exe)
-
 
 ## Usage
 
