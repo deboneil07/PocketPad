@@ -7,7 +7,7 @@ Packaged using Pyinstaller.
 
 v1.2.3
 
-## <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F17%2FWarning.svg%2F2219px-Warning.svg.png&tbnid=NGrIUeL6NaoqaM&vet=12ahUKEwjslJOtgNqEAxXDcPUHHRnUAzkQMygAegQIARBy..i&imgrefurl=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AWarning.svg&docid=w-MXtzEdBPLguM&w=2219&h=2048&q=warning&ved=2ahUKEwjslJOtgNqEAxXDcPUHHRnUAzkQMygAegQIARBy" alt = "Warning" width="50" height="50"> Disclaimer
+## <img src="./warning.png" alt = "Warning" width="40" height="40"> Disclaimer
 
 1. This application is not yet supported for Android and iOS devices.
 2. Upon downloading PocketPad, the Windows Defender might not recognise this as a legit file, so make sure to click on "Read More" and then select "Allow" to run this application.
