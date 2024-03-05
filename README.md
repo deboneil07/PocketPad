@@ -3,7 +3,7 @@
 A minimalistic NotePad inspired text editor made using Tkinter & Python.
 Packaged using Pyinstaller.
 
-visit  https://pocket-pad.vercel.app/ 🚀
+https://pocket-pad.vercel.app/
 
 ## Version
 
