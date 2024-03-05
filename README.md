@@ -3,11 +3,13 @@
 A minimalistic NotePad inspired text editor made using Tkinter & Python.
 Packaged using Pyinstaller.
 
+visit  https://pocket-pad.vercel.app/ 🚀
+
 ## Version
 
-v1.2.3
+v2.0.0
 
-## <img src="./warning.png" alt = "Warning" width="40" height="40"> Disclaimer
+## <img src="./warning.png" alt = "Warning" width="40" height="40" > Disclaimer
 
 1. This application is not yet supported for Android and iOS devices.
 2. Upon downloading PocketPad, the Windows Defender might not recognise this as a legit file, so make sure to click on "Read More" and then select "Allow" to run this application.
@@ -26,17 +28,17 @@ It is a very simple and minimalistic NotePad inspired Text Editor, and can be us
 
 ## Roadmap
 
-[for v2.0.0]
+[for v2.0.0] ✅
 
-1. Setting up and hosting a website for PocketPad.
+1. Setting up and hosting a website for PocketPad. ✅
 
-[for v2.1.0]
+[for v2.1.0] 🚧 
 
-1. Changing font colors.
+1. Changing font colors. 🚧 
 
-[for v2.2.0]
+[for v2.2.0] 🚧 
 
-1. Setting Themes.
+1. Setting Themes. 🚧 
 
 ## Contributing
 
