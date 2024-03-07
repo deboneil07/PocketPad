@@ -7,7 +7,7 @@ https://pocket-pad.vercel.app/
 
 ## Version
 
-v2.0.0
+v2.1.0
 
 ## <img src="./warning.png" alt = "Warning" width="40" height="40" > Disclaimer
 
@@ -32,13 +32,17 @@ It is a very simple and minimalistic NotePad inspired Text Editor, and can be us
 
 1. Setting up and hosting a website for PocketPad. ✅
 
-[for v2.1.0] 🚧 
+[for v2.1.0] ✅
 
-1. Changing font colors. 🚧 
+1. Adding dark mode. ✅ 
 
 [for v2.2.0] 🚧 
 
-1. Setting Themes. 🚧 
+1. Adding a drawing pad. 🚧
+
+[for v2.3.0] 🚧
+
+1. Updating UI 🚧
 
 ## Contributing
 
