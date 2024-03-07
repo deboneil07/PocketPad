@@ -44,12 +44,15 @@ def dark_mode():
         btn_open.config(bg="black", fg="#16FF00")
         btn_save.config(bg="black", fg="#16FF00")
         btn_dark.config(bg="black", fg="#16FF00", text="Light Mode")
+        txt_edit.config(insertbackground="white")
     if (status == "Light Mode"):
         txt_edit.config(bg="white", fg="black")
         frm_buttons.config(bg="white", cursor="arrow")
         btn_open.config(bg="white", fg="black")
         btn_save.config(bg="white", fg="black")
         btn_dark.config(bg="white", fg="black", text="Dark Mode")
+        txt_edit.config(insertbackground="black")
+
 
 txt_edit = tk.Text(master=window, font=("Sans, 14"))
 frm_buttons = tk.Frame(master=window, relief=tk.RAISED, border=2)
