@@ -32,17 +32,17 @@ It is a very simple and minimalistic NotePad inspired Text Editor, and can be us
 
 1. Setting up and hosting a website for PocketPad. ✅
 
-[for v2.1.0] ✅
+[for v2.1.0] 🚧
 
-1. Adding dark mode. ✅ 
+1. Adding dark mode. ✅
+2. Updating UI 🚧 
 
-[for v2.2.0] 🚧 
+[for v3.0.0] 🚧 
 
 1. Adding a drawing pad. 🚧
 
-[for v2.3.0] 🚧
 
-1. Updating UI 🚧
+
 
 ## Contributing
 
